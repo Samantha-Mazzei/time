@@ -1,10 +1,18 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 21 mars 2015, 19:06:38
-    Author     : pierr_000
-*/
+@font-face {
+    font-family: Marsmonster;
+    src: url(font/Marsmonster.ttf);
+}
 
+body {
+    text-align: center;
+    font-size: 120px;
+    font-family: Marsmonster; 
+    background-color: #34495e;
+}
+
+body > * {
+    background-color: #f1c40f;
+    color: #34495e;
+    margin-top: 25%;
+    padding: 15px;
+}
