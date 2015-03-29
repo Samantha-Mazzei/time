@@ -23,7 +23,7 @@ Deux versions sont disponibles :
 &lt;div class="clock">&lt;/div>
 </pre>
 
-<p>Tout les élément ayant la classe clock auront une horloge.<br>
+<p>Tous les élément ayant la classe clock auront une horloge.<br>
 Le style appliqué est modifiable en fonction de votre projet.<br>
 Dans cet exemple, j'ai choisi de mettre un div, mais le plugin fonctionne avec n'importe quel autre type d'élément.</p>
 
