@@ -28,8 +28,8 @@ Deux versions sont disponibles :
 
 <h2>Demo</h2>
 
-<p>Le dossier Demo comporte <strong>un fichier HTML</strong></strong> et <strong>un fichier CSS</strong> pour illustrer le plugin.<br><a target="_blank" href="https://jsfiddle.net/v7qz2kyc/4/">>> Voir la Demo</a></p>
+<p>Le dossier Demo comporte <strong>un fichier HTML</strong></strong> et <strong>un fichier CSS</strong> pour illustrer le plugin.<br><a target="_blank" href="https://jsfiddle.net/samantha_Mazzei_12/sat91sx9/">>>Voir la démo</a></p>
 
 
 
-<a target="_blank" href="https://jsfiddle.net/samantha_Mazzei_12/sat91sx9/">>>Voir la démo</a>
+
