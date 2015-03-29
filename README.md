@@ -1,4 +1,4 @@
-<h1>Clock : plugin jQuery horloge</h1>
+<h1>Time : plugin jQuery horloge</h1>
 
 <p>Le fichier javascript à inclure se trouve à la racine.
 Deux versions sont disponibles :
