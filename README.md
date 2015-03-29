@@ -20,8 +20,7 @@ Deux versions sont disponibles :
 <p>Afin que le plugin fonctionne, vous devrez mettre un div avec la classe suivante :</p>
 
 <pre>
-&lt;div class="clock">
-&lt;/div>
+&lt;div class="clock">&lt;/div>
 </pre>
 
 <p>Dans cet exemple, j'ai choisi de mettre un div, mais le plugin fonctionne avec n'importe quel autre type d'élément.</p>
